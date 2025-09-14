@@ -1,6 +1,26 @@
 # README
 Tento README slouží jako ukázka (a návod) k využití gitu.
 
+---
+
+ ## Verze pro Visual Studio 2019
+1. **Přihlášení**
+   - v aplikaci Visual Studio přejdi na *Soubor* a *Nastavení účtů...*
+   - přihlaš se na GitHub
+2. **Na začátku hodiny**
+   - najeď na stránku svého repozitáře (např. https://github.com/*jmeno*/it2b_prog/)
+      - pokud se zobrazuje tlačítko *Sync fork*, načti změny od učitelského repozitáře
+   - ve VS přejdi na *git* -> *klonovat úložiště* a vyber svůj repozitář
+      - případně pullni změny 
+   - v rámci *zobrazení* vyber *Team explorer*
+3. **Během práce**
+   - v *Team explorer* přidávej změny v souborech
+   - pomocí *Potvrdit připravené* commitni novou verzi
+   - pomocí šipky nahoru (*push*) nahraj změny do repozitáře na cloudu
+
+---
+
+
 ## 0. Před začátkem – založení účtu
 1. Otevři [https://github.com](https://github.com).
 2. Založ vlastní účet pomocí školního emailu.
