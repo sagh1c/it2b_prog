@@ -24,7 +24,7 @@ Vytvoř program, který bude simulovat známky studenta.
    - **známku, kterou dostane student na vysvědčení** (zaokrouhlený průměr).
 4. (Bonus) Pokud dovedeš, vypiš **histogram** známek.
 
---
+---
 
 ## 3. Generátor hesla
 Vytvoř generátor dobrého hesla.  
@@ -63,3 +63,4 @@ Vygenerované heslo: Zd3a#RkL8
 Vytvoř program, která je schopna náhodně generovat zadání pro sudoku. Na základě hodnoty proměnné *komplet* má tento program dvě varianty:
 - pokud *komplet=True* vypiš kompletní řešení generovaného sudoku
 - pokud *komplet=False* vypiš pouze polovinu číslic ze zadání.
+
