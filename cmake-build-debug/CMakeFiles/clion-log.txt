@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\PC\CLionProjects\it2b_prog Select CMakeLists.txt
