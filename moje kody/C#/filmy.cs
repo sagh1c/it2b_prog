@@ -71,6 +71,7 @@ class Program
             else if (volba == 6)
             {
                 pokracovat = false;
+                
             }
         }
     }
